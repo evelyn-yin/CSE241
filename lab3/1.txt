@@ -1,0 +1,38 @@
+----- Transcript file 1.txt started Thu Nov 20 00:02:14 CST 2014
+Starting airport? SFO
+Ending airport? TPA
+SFO
+---> DFW (DL-374, 3 hours, 3 minutes)
+---> TPA (DL-276, 2 hours, 6 minutes)
+Ending airport? ORD
+SFO
+---> ORD (UA-136, 3 hours, 45 minutes)
+Ending airport? MSY
+SFO
+---> MSY (UA-372, 4 hours, 14 minutes)
+Ending airport? PHL
+SFO
+---> PHL (UA-94, 4 hours, 53 minutes)
+Ending airport? DCA
+SFO
+---> ORD (UA-136, 3 hours, 45 minutes)
+---> DCA (UA-606, 1 hours, 36 minutes)
+Ending airport? HOU
+SFO
+---> DFW (DL-374, 3 hours, 3 minutes)
+---> HOU (DL-1177, 58 minutes)
+Ending airport? PVD
+SFO
+---> ORD (UA-136, 3 hours, 45 minutes)
+---> PVD (AA-208, 2 hours, 1 minutes)
+Ending airport? MSP
+SFO
+---> MSP (NW-352, 3 hours, 24 minutes)
+Ending airport? JFK
+SFO
+---> JFK (AA-18, 4 hours, 55 minutes)
+Ending airport? BNA
+SFO
+---> BNA (AA-566, 4 hours, 12 minutes)
+Ending airport? End of File reached while scanning for input.
+￿
